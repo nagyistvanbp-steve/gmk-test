@@ -1,0 +1,1 @@
+print("SZiasztok, ez egy Python program.")
